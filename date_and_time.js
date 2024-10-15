@@ -22,7 +22,7 @@
 // console.log(newDate);
 // console.log(newDate.getMonth()+1);
 
-// date manipulatation (padhna hai)
+// date manipulatation (Have to study)
 
 let newDate = new Date(); // Ensure the Date object is initialized
 
